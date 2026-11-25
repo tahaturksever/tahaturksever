@@ -1,6 +1,6 @@
 ## Hi, I'm Taha 👋
 
-Final-year **Statistics** student at **Yıldız Technical University**, Istanbul.
+Final-year **Statistics** student at **Yıldız Technical University**, Istanbul.<br>
 I work on data analysis, statistical modeling and data-driven decision making, and I build small products end to end, using AI-assisted development to ship fast.
 
 - 📊 Interested in data science, analytics, pricing and quantitative finance
@@ -10,8 +10,8 @@ I work on data analysis, statistical modeling and data-driven decision making, a
 
 ### Tech
 
-**Data & analysis:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · Power BI
-**Automation:** Power Apps · Power Automate · Google Apps Script · Telegram bots
+**Data & analysis:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · Power BI<br>
+**Automation:** Power Apps · Power Automate · Google Apps Script · Telegram bots<br>
 **Web:** TypeScript · Next.js · React · Supabase
 
 ### Featured project
