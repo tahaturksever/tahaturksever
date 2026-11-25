@@ -185,10 +185,10 @@ S&P 500 bileşenlerinin tamamını kapsayan, LLM destekli sistematik portföy y�
 
 <br/>
 
-### Finalist — Borsa İstanbul Fintech AI Hackathon  
+### Katılımcı — Borsa İstanbul Fintech AI Hackathon  
 **Ekim 2026**
 
-- Üç kişilik ekiple yüz yüze finale kaldık.
+- Üç kişilik ekiple yüz yüze katıldık.
 - Finansal okuryazarlık için RAG tabanlı bir LLM uygulaması geliştirdik.
 
 `LLM` `RAG` `Fintech`
