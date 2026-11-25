@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E1A24,40:3B1F33,75:B8233F,100:E8294F&text=Taha%20T%C3%BCrksever&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Statistics%20%7C%20Data%20Analysis%20%7C%20Quant%20Finance%20%7C%20Product%20Building&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E1A24,40:3B1F33,75:B8233F,100:E8294F&text=Taha%20T%C3%9CRKSEVER&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Statistics%20%7C%20Data%20Analysis%20%7C%20Quant%20Finance%20%7C%20Product%20Building&descAlignY=58&descSize=15&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2800&pause=900&color=E8294F&center=true&vCenter=true&width=850&lines=%C4%B0statistik+%C3%96%C4%9Frencisi;Data+Analysis+%26+Statistical+Modeling;Quant+Finance+%7C+Trading+Systems;Co-Founder+%40+UpDate" alt="Typing SVG" />
@@ -17,6 +17,9 @@
 
 <a href="https://www.updateapp.io">
   <img src="https://img.shields.io/badge/Ürün-UpDate-E8294F?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/tahaturksever">
+  <img src="https://img.shields.io/badge/LinkedIn-Taha%20TÜRKSEVER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:tahaturksever@icloud.com">
   <img src="https://img.shields.io/badge/Email-İletişim-B8233F?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -37,10 +40,10 @@
 
 ## Hakkımda
 
-Ben **Taha Türksever**, **Yıldız Teknik Üniversitesi İstatistik Bölümü** son sınıf öğrencisiyim.  
-Odak alanlarım **veri analizi, istatistiksel modelleme, finansal piyasalar ve veri odaklı karar sistemleri**.
+Ben **Taha TÜRKSEVER**, **Yıldız Teknik Üniversitesi İstatistik Bölümü** son sınıf öğrencisiyim.  
+Odak alanlarım **veri analitiği, makine öğrenmesi, istatistiksel modelleme ve yapay zekâ**.
 
-Veriyi yalnızca raporlamakla değil; onu **eşleştirme motorlarına, alım-satım sinyallerine, portföy kararlarına ve iş süreçlerini hızlandıran otomasyonlara** dönüştürmekle ilgileniyorum.
+Python, SQL ve Power BI ile gerçek iş problemlerini analiz ediyor; veriyi **otomasyonlara, KPI raporlarına, finansal modellere, işlem sinyallerine ve eşleştirme motorlarına** dönüştürüyorum.
 
 Fikirden canlı ürüne kadar hızlı ilerlemek için **AI destekli geliştirme** kullanıyorum: metodolojiyi ben tasarlıyor, kodu doğruluyor ve testlerle güvenceye alıyorum.
 
@@ -64,7 +67,10 @@ Fikirden canlı ürüne kadar hızlı ilerlemek için **AI destekli geliştirme*
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 <br/>
@@ -74,6 +80,9 @@ Fikirden canlı ürüne kadar hızlı ilerlemek için **AI destekli geliştirme*
 
 <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -89,11 +98,13 @@ Fikirden canlı ürüne kadar hızlı ilerlemek için **AI destekli geliştirme*
 | Alan | Seviye | Detay |
 |---|---:|---|
 | Data Analysis | Aktif Kullanıyorum | Veri temizleme, EDA, yorumlama ve raporlama |
+| Machine Learning | Geliştiriyorum | Scikit-learn, XGBoost, LightGBM ile modelleme |
 | Statistical Modeling | Akademik + Proje Bazlı | Skorlama, ağırlıklandırma, doğrulama ve test tasarımı |
+| Financial Modeling | Proje + Staj Bazlı | Senaryo analizi, kredi riski skorlaması |
 | Quant Finance | Proje Geliştiriyorum | Kural tabanlı stratejiler, backtest, portföy dağılımı |
 | Matching & Scoring | Proje Geliştiriyorum | UpDate üzerinden uyum testi ve eşleştirme motoru |
-| LLM Applications | Proje Geliştiriyorum | LLM destekli analiz pipeline'ları, RAG |
-| Business Automation | Aktif Kullanıyorum | Power Apps / Power Automate ile süreç otomasyonu |
+| LLM Applications | Proje Geliştiriyorum | LoRA fine-tuning, RAG, LLM destekli pipeline'lar |
+| Business Automation | Aktif Kullanıyorum | Power Apps, Power Automate, SharePoint Lists |
 | Business Intelligence | Aktif Kullanıyorum | Power BI, KPI takibi ve dashboard mantığı |
 
 ---
@@ -121,22 +132,22 @@ Cevaplar boyut puanlarına çevrilir, konu konu benzerlikler hesaplanır ve iki 
 </details>
 
 <details>
-<summary><b>Trading Signal Bot — Kural Tabanlı Kripto Futures Sinyal Motoru</b></summary>
+<summary><b>Çoklu Zaman Dilimli İşlem Sinyali ve Araştırma Sistemi</b></summary>
 
 <br/>
 
-Takdire dayalı bir range-trading yöntemini, deterministik bir durum makinesine dönüştüren sinyal motorudur.
+525 Binance USDT perpetual sözleşmesini tarayan, Python tabanlı bir araştırma ve sinyal sistemidir.
 
 | Başlık | Detay |
 |---|---|
 | Odak | Quant Finance, State Machines, Backtesting |
 | Stack | Python, pytest, Telegram Bot API, systemd |
-| Kapsam | Yüzlerce parite taraması, kural bazlı LONG / SHORT / NO_SIGNAL açıklamaları |
-| Doğrulama | Geçmiş veri testleri ve look-ahead kontrolleri |
+| Yapı | 1 saatlik sinyal yapısı, 4 saatlik piyasa bağlamı, 15 dakikalık işlem takibi |
+| Doğrulama | 808 otomatik test, 60 ileri tarihli veri kontrolü, sıralı replay testleri |
 | Çalışma | VPS üzerinde 7/24, Telegram bildirimleri, emir göndermez |
 | Repository | Private |
 
-Her sinyal hangi kuralın neden sağlandığını adım adım açıklar; amaç stratejiyi iyileştirmek değil, ona sadık ve test edilebilir bir uygulama kurmaktır.
+Testlerin amacı, sistemin geçmiş veride geleceği görmediğini ve araştırma sonuçlarının canlı sistemle tutarlı olduğunu doğrulamaktır.
 
 </details>
 
@@ -160,18 +171,45 @@ S&P 500 bileşenlerinin tamamını kapsayan, LLM destekli sistematik portföy y�
 
 </details>
 
+<details>
+<summary><b>Borsa İstanbul Fintech Hackathon 2026 — Finansal Okuryazarlık LLM'i</b></summary>
+
+<br/>
+
+Finans alanına uyarlanmış bir soru-cevap sistemidir.
+
+| Başlık | Detay |
+|---|---|
+| Odak | LLM Fine-tuning, RAG, Fintech |
+| Model | Qwen 3.5-9B, LoRA ile fine-tuning |
+| Veri | 150 finansal okuryazarlık videosundan oluşturulan veri seti |
+| Mimari | Yanıtları eğitim içerikleriyle destekleyen RAG katmanı |
+| Katılım | Üç kişilik ekiple yüz yüze katılım |
+
+</details>
+
 ---
 
 ## Deneyim
 
-### MeTrainee — MetLife Hayat ve Emeklilik  
+### MeTrainee — MetLife  
 **Haziran 2026 — Güncel**
 
-- Performans Yönetimi departmanında tam zamanlı stajyer olarak çalışıyorum.
-- Power Apps ve Power Automate ile ekip süreçlerini hızlandıran uygulamalar ve otomasyonlar geliştiriyorum.
-- Tekrarlayan doküman ve bildirim süreçlerini AI destekli akışlarla otomatikleştiriyorum.
+- 100'den fazla kişilik saha satış ekibinin Excel üzerinden yürüttüğü veri toplama sürecini Power Apps, Power Automate, SharePoint Lists ve Power BI ile otomatikleştirdim ve merkezi bir veri altyapısı kurdum.
+- Satış Kalitesi Departmanı için uçtan uca bir Power Apps uygulaması geliştirdim; 6 Power Automate akışıyla 3/6/12 aylık tekrar kontrollerini, bölge bazlı özetleri, sicil sorgulamalarını ve dosya yönetimini otomatikleştirdim.
+- Kurumsal SQL veritabanlarından satış performansı KPI raporları hazırladım, veri doğrulama ve kalite kontrolleri uyguladım.
 
-`Power Apps` `Power Automate` `Process Automation` `Insurance`
+`Power Apps` `Power Automate` `SharePoint` `Power BI` `SQL`
+
+<br/>
+
+### Uluslararası Finansman ve Yatırımlar Stajyeri — Çalık Enerji  
+**Ocak 2026 — Şubat 2026**
+
+- 8 senaryo, 6 gelir ve 18 maliyet kalemi içeren 30 yıllık yenilenebilir enerji finansal modelini Python'a aktararak senaryo analizlerini ve görselleştirmeyi otomatikleştirdim.
+- Konsolide finansal tablolar üzerinden şirket karşılaştırmaları yaptım, Moody's metodolojisine dayanan Excel tabanlı kredi riski skorlama modelleri geliştirdim.
+
+`Python` `Financial Modeling` `Credit Risk` `Excel`
 
 <br/>
 
@@ -183,15 +221,22 @@ S&P 500 bileşenlerinin tamamını kapsayan, LLM destekli sistematik portföy y�
 
 `Matching Engine` `Statistical Scoring` `Next.js` `Supabase`
 
-<br/>
+---
 
-### Katılımcı — Borsa İstanbul Fintech AI Hackathon  
-**Ekim 2026**
+## Eğitim
 
-- Üç kişilik ekiple yüz yüze katıldık.
-- Finansal okuryazarlık için RAG tabanlı bir LLM uygulaması geliştirdik.
+| Kurum | Program | Dönem |
+|---|---|---|
+| Yıldız Teknik Üniversitesi | İstatistik Lisans | 2023 — 2027 (Beklenen) |
+| Yıldız Teknik Üniversitesi | İnşaat Mühendisliği → İstatistik'e yatay geçiş | 2021 — 2023 |
 
-`LLM` `RAG` `Fintech`
+---
+
+## Sertifikalar
+
+- **Data Science and Machine Learning 2026: 100 Days Bootcamp** — Atıl Samancıoğlu
+- **Business and Financial Modeling** — Wharton Online (University of Pennsylvania)
+- **C1 Level Advanced English** — British Time Language Schools
 
 ---
 
@@ -250,6 +295,9 @@ Open To:
 
 <a href="mailto:tahaturksever@icloud.com">
   <img src="https://img.shields.io/badge/iCloud%20Mail-E8294F?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/tahaturksever">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/tahaturksever">
   <img src="https://img.shields.io/badge/GitHub-1E1A24?style=for-the-badge&logo=github&logoColor=white" />
