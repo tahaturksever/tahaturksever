@@ -22,7 +22,7 @@ Users take a structured compatibility test, and a server-side engine scores ever
 
 **Trading Signal Bot**: rule-based crypto futures signal engine
 Turns a discretionary range-trading method into a deterministic state machine that prints LONG / SHORT / NO_SIGNAL with a rule-by-rule explanation. Includes historical validation and look-ahead checks, scans hundreds of pairs, and runs 24/7 on a VPS with Telegram alerts. Signal-only: it never places orders.
-*Python · pandas · Telegram Bot API · systemd*
+*Python (standard library) · pytest · Telegram Bot API · systemd*
 
 **S&P 500 LLM Portfolio**: systematic equity portfolio pipeline
 LLM-assisted pipeline covering all 503 S&P 500 constituents: automated re-scoring, allocation, price-level generation and paper-trade reconciliation, delivered as Telegram signals twice a week. Built as an 8-stage checkpointed pipeline with Docker, GitHub Actions and 400+ tests. Paper trading only.
