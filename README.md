@@ -37,7 +37,7 @@
 
 ## Hakkımda
 
-Ben **Taha Türksever**, **Yıldız Teknik Üniversitesi İstatistik Bölümü** son sınıf öğrencisiyim (mezuniyet: Haziran 2027).  
+Ben **Taha Türksever**, **Yıldız Teknik Üniversitesi İstatistik Bölümü** son sınıf öğrencisiyim.  
 Odak alanlarım **veri analizi, istatistiksel modelleme, finansal piyasalar ve veri odaklı karar sistemleri**.
 
 Veriyi yalnızca raporlamakla değil; onu **eşleştirme motorlarına, alım-satım sinyallerine, portföy kararlarına ve iş süreçlerini hızlandıran otomasyonlara** dönüştürmekle ilgileniyorum.
