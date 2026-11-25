@@ -201,12 +201,6 @@ S&P 500 bileşenlerinin tamamını kapsayan, LLM destekli sistematik portföy y�
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaturksever&theme=github_dark" />
 
-<br/>
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahaturksever&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahaturksever&theme=github_dark&utcOffset=3" />
-
 </div>
 
 ---
