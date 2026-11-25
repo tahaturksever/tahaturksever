@@ -14,10 +14,21 @@ I work on data analysis, statistical modeling and data-driven decision making, a
 **Automation:** Power Apps · Power Automate · Google Apps Script · Telegram bots<br>
 **Web:** TypeScript · Next.js · React · Supabase
 
-### Featured project
+### Projects
 
-**[UpDate](https://github.com/tahaturksever/update-landing)**: web app and matching engine. Users take a compatibility test, and a server-side engine scores every pair with a weighted power mean of per-topic similarities, combined in both directions with a geometric mean.
+**[UpDate](https://www.updateapp.io)**: compatibility-first dating app
+Users take a structured compatibility test, and a server-side engine scores every pair: per-topic similarities are combined with a weighted power mean, both directions are merged with a geometric mean, and hard deal-breaker gates filter out incompatible pairs.
 *Next.js · TypeScript · Supabase · Playwright*
+
+**Trading Signal Bot**: rule-based crypto futures signal engine
+Turns a discretionary range-trading method into a deterministic state machine that prints LONG / SHORT / NO_SIGNAL with a rule-by-rule explanation. Includes historical validation and look-ahead checks, scans hundreds of pairs, and runs 24/7 on a VPS with Telegram alerts. Signal-only: it never places orders.
+*Python · pandas · Telegram Bot API · systemd*
+
+**S&P 500 LLM Portfolio**: systematic equity portfolio pipeline
+LLM-assisted pipeline covering all 503 S&P 500 constituents: automated re-scoring, allocation, price-level generation and paper-trade reconciliation, delivered as Telegram signals twice a week. Built as an 8-stage checkpointed pipeline with Docker, GitHub Actions and 400+ tests. Paper trading only.
+*Python · yfinance · LLM APIs · Docker · GitHub Actions*
+
+<sub>Repositories are private. Code walkthroughs are available on request.</sub>
 
 ### Contact
 
