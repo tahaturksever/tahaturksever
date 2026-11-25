@@ -223,23 +223,6 @@ Finans alanına uyarlanmış bir soru-cevap sistemidir.
 
 ---
 
-## Eğitim
-
-| Kurum | Program | Dönem |
-|---|---|---|
-| Yıldız Teknik Üniversitesi | İstatistik Lisans | 2023 — 2027 (Beklenen) |
-| Yıldız Teknik Üniversitesi | İnşaat Mühendisliği → İstatistik'e yatay geçiş | 2021 — 2023 |
-
----
-
-## Sertifikalar
-
-- **Data Science and Machine Learning 2026: 100 Days Bootcamp** — Atıl Samancıoğlu
-- **Business and Financial Modeling** — Wharton Online (University of Pennsylvania)
-- **C1 Level Advanced English** — British Time Language Schools
-
----
-
 ## GitHub İstatistikleri
 
 <div align="center">
